@@ -1,0 +1,17 @@
+.myImage {
+  justify-content: center;
+  align-items: center;
+}
+
+.myButton {
+  border-radius: 40px;
+  margin-bottom: 30px;
+}
+
+.myh3 {
+  margin-top: 5px;
+}
+
+.mySpan {
+  font-family: cursive;
+}
